@@ -1,7 +1,5 @@
 package minadakis.carol.cadastrodecontas;
 
-import java.util.Scanner;
-
 public class Cliente {
 	
 	private String nomeCliente;
